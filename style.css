@@ -1,0 +1,51 @@
+.row-one {
+    background: linear-gradient(rgba(48, 105, 117, 0.726),
+        rgba(54, 106, 117, 0.527)), url('/mountains.jpg');
+    color: white;
+}
+
+.button-one {
+    color: white;
+    margin-top: 4%;
+}
+
+.my-5 {
+    margin-top: 5rem;
+}
+
+.bg-color-black {
+    background-color: #2F3637;
+
+
+}
+
+.border-blue {
+    border: 1px solid blue;
+}
+
+.bg-blue {
+    background-color:
+        rgb(24, 135, 209);
+    color: white;
+}
+
+
+.bg-light {
+    background-color: rgb(110, 112, 114);
+}
+
+.box {
+    border: 1px solid black;
+    margin-right: 10%;
+}
+
+.fab {
+    margin-right: 20px;
+    color: rgb(60, 115, 199);
+}
+
+.footer {
+    color: white;
+    background-color: rgb(20, 83, 165);
+    padding: 4%;
+}
